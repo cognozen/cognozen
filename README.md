@@ -1,9 +1,9 @@
 # Welcome to CognoZen
 
-## Empowering Minds
+## Empowering Minds, Transforming Futures
 
 ### Our Mission
-CognoZen is dedicated to empowering individuals through personalized cognitive development tools and learning experiences. We believe in fostering cognitive abilities to help everyone achieve their fullest potential, irrespective of their starting point.
+To deliver a transformative, highly personalized, and motivational cognitive empowerment experience, CognoZen leverages innovative technology and adopts a learner-centric approach, supporting individuals to thrive and feel empowered.
 
 ### What We Do
 At CognoZen, we create innovative solutions to enhance learning and cognitive development. Our projects range from interactive learning modules and AI-driven personal tutors to tools designed to improve cognitive flexibility and processing speed.
