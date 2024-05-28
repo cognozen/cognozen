@@ -1,4 +1,4 @@
-# Join CognoZen – Pioneering AI-Driven Personal and Professional Growth
+# CognoZen – Revolutionizing Growth with AI-Driven, Personalized Learning & Emotional Empowerment
 At CognoZen, we redefine learning through innovative AI-driven technologies and a deep commitment to emotional empowerment. Our platform tailors learning journeys to each individual's unique cognitive and emotional needs, unlocking their full potential for personal and professional growth.
 
 ## Why CognoZen?
